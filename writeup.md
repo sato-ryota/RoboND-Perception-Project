@@ -14,8 +14,10 @@ You're reading it!
 [//]: # (Image References)
 
 [image1]: ./misc_images/objects.png
-[image2]: ./misc_images/z_pi.png
-[image3]: ./misc_images/x_pi2.png
+[image2]: ./misc_images/segmentation.png
+[image3]: ./misc_images/train_svm.png
+[image4]: ./misc_images/object_recognition.png
+
 
 I modify RANSAC.py.
 I attach the file.
@@ -43,20 +45,7 @@ I change the 3 point.
 I inprove the accuracy .(0.3 to 0.9 )
 ![alt text][image3]
 
-
-
-
-
-
-
-
-
-Here's | A | Snappy | Table
---- | --- | --- | ---
-1 | `highlight` | **bold** | 7.41
-2 | a | b | c
-3 | *italic* | text | 403
-4 | 2 | 3 | abcd
+![alt text][image4]
 
 
 ### Pick and Place Setup
