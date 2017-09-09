@@ -17,6 +17,9 @@ You're reading it!
 [image2]: ./misc_images/segmentation.png
 [image3]: ./misc_images/train_svm.png
 [image4]: ./misc_images/object_recognition.png
+[image5]: ./misc_images/test1.png
+[image6]: ./misc_images/test2.png
+[image7]: ./misc_images/test3.png
 
 
 I modify RANSAC.py.
@@ -53,10 +56,13 @@ I inprove the accuracy .(0.3 to 0.9 )
 #### 1. For all three tabletop setups (`test*.world`), perform object recognition, then read in respective pick list (`pick_list_*.yaml`). Next construct the messages that would comprise a valid `PickPlace` request output them to `.yaml` format.
 
 test1.world
+![alt text][image5]
 
 test2.world
+![alt text][image6]
 
 test3.world
+![alt text][image7]
 
 
 
